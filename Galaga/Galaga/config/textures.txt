@@ -1,0 +1,12 @@
+bullet: ./textures/bullet.png
+player: ./textures/player.png
+enemy1_1: ./textures/enemy1_1.png
+enemy1_2: ./textures/enemy1_2.png
+enemy2_1: ./textures/enemy2_1.png
+enemy2_2: ./textures/enemy2_2.png
+enemy3_1: ./textures/enemy3_1.png
+enemy3_2: ./textures/enemy3_2.png
+destruction_1: ./textures/des1.png
+destruction_2: ./textures/des2.png
+destruction_3: ./textures/des3.png
+destruction_4: ./textures/des4.png

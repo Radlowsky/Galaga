@@ -1,0 +1,3 @@
+font: ./config/full_Pack_2025.ttf
+textures: ./config/textures.txt
+scores: ./config/scores.txt

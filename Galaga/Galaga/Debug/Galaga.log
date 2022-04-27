@@ -1,0 +1,152 @@
+﻿  Bullet.cpp
+  Controller.cpp
+  Destruction.cpp
+  Enemy.cpp
+  Enemy1.cpp
+  Enemy2.cpp
+  Enemy3.cpp
+  Entity.cpp
+  Game.cpp
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(122,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(200,110): warning C4244: "=": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(256,40): warning C4244: "=": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(582,62): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(582,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(627,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(632,72): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(632,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(648,29): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(648,22): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(649,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(649,31): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(667,18): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(668,18): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  main.cpp
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(122,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(200,110): warning C4244: "=": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(256,40): warning C4244: "=": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(582,62): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(582,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(627,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(632,72): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(632,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(648,29): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(648,22): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(649,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(649,31): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(667,18): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Game.h(668,18): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Menu.cpp
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Menu.cpp(4,17): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Menu.cpp(4,9): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Menu.cpp(4,45): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Menu.cpp(4,42): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Menu.cpp(23,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Menu.cpp(55,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Player.cpp
+  Shield.cpp
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Shield.cpp(5,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Shield.cpp(8,10): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Shield.cpp(9,10): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Shield.cpp(15,13): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Shield.cpp(16,13): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Shield.cpp(17,13): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Galaga\Shield.cpp(18,13): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Galaga.vcxproj -> F:\Jerry\Dokumenty\studia  do posegregowania\GIT PK\PK4\Projekt\Galaga\Debug\Galaga.exe
